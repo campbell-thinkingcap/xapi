@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            loadCourseJson();
+        });
+
+        let loadCourseJson = function () {
+            $.ajax({
+                url: 'course.json',
+                success: function (data) {
+
+                    let manifest = $(`<manifest
+                             xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                             xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" 
+                             xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" 
+                             xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" 
+                             xmlns:imsss="http://www.imsglobal.org/xsd/imsss" 
+                             identifier="${data.urn}"
+                             version="1" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 
+                             imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 
+                             adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 
+                             adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 
+                             adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd"></manifest>`);
+                    
+                    let metadata = $(`<metadata>
+                                            <schema>ADL SCORM</schema>
+                                            <schemaversion>2004 3rd Edition</schemaversion>
+                                          </metadata>`);
+                    manifest.append(metadata);
+                    let organizations = $(`<organizations default="${data.urn}"></organizations>`);
+                    var organization = $(`<organization identifier="${data.urn}"></organization>`);
+                    let title = $(`<title>${data.title.value}</title>`);
+                    let resources = $('<resources></resources>');
+
+                    organizations.append(organization);
+                    manifest.append(organizations);
+                    organization.append(title);
+                    
+                    $.each(data.contents, function () {
+                        if (this.asset.type.toLowerCase() === 'chapter') {
+                            let item = buildItem(this.asset,resources);
+                            organization.append(item);
+                            //let resource = buildResource(this.asset);
+                            //resources.append(resource);
+                            manifest.append(resources);
+
+                        }
+                    });
+
+                    $('.manifest').text(manifest[0].outerHTML);
+                }
+            });
+
+
+        }
+
+        let buildItem = function (obj,resources) {
+            let item = $(`<item identifier="${obj.urn}" identifierref="${obj.urn}_resource"><title>${obj.title.value}</title></item>`);
+            let r = buildResource(obj);
+            resources.append(r);
+            $.each(obj.contents, function () {
+                let sub = buildItem(this.asset,resources);
+                item.append(sub);
+            });
+            return item;
+        }
+
+        let buildResource = function (obj) {
+            let item = $(`<resource identifier="${obj.urn}_resource" type="webcontent" adlcp:scormType="asset" href="${obj.urn}"></resource>`);
+            return item;
+        }
+    </script>
+</head>
+<body>
+    <code class="manifest">
+
+    </code>
+</body>
+</html>

@@ -1,0 +1,205 @@
+﻿<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" identifier="urn:li:lyndaCourse:174922" version="1" xsi:schemalocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <organizations default="urn:li:lyndaCourse:174922">
+    <organization identifier="urn:li:lyndaCourse:174922">
+      <title>The Elements of Composition for Illustrators</title>
+      <item identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378250)" identifierref="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378250)_resource">
+        <title>Introduction</title>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378251)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378251)_resource">
+          <title>Welcome</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378252)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378252)_resource">
+          <title>Getting the most out of this course</title>
+        </item>
+      </item>
+      <item identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378253)" identifierref="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378253)_resource">
+        <title>1. Basics of Composition</title>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378254)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378254)_resource">
+          <title>Understanding concept and composition</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378255)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378255)_resource">
+          <title>Editing and revising your work</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378256)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378256)_resource">
+          <title>Framing your field of view</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378257)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378257)_resource">
+          <title>A look back to influential illustrators</title>
+        </item>
+      </item>
+      <item identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378258)" identifierref="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378258)_resource">
+        <title>2. Shaping the Composition</title>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378259)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378259)_resource">
+          <title>Creating visual balance in an image</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378260)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378260)_resource">
+          <title>Seeing in shape</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378261)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378261)_resource">
+          <title>Designing the negative space</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378262)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378262)_resource">
+          <title>Directing with lines</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378263)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378263)_resource">
+          <title>Using borders, bleeds, and boxes</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378264)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378264)_resource">
+          <title>Understanding color, texture, and proportion</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378265)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378265)_resource">
+          <title>Patterns, clusters, and rhythm</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378266)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378266)_resource">
+          <title>Composing with text</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378267)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378267)_resource">
+          <title>Challenge: Incorporating text into your illustrations</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378268)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378268)_resource">
+          <title>Solution: Text illustration</title>
+        </item>
+      </item>
+      <item identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378269)" identifierref="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378269)_resource">
+        <title>3. Creating Compositional Unity</title>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378270)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378270)_resource">
+          <title>Bringing it all together</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378271)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378271)_resource">
+          <title>Using a limited palette in composition</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378272)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378272)_resource">
+          <title>Consistency of style</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378273)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378273)_resource">
+          <title>Unifying light</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378274)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378274)_resource">
+          <title>Combining message and medium</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378275)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378275)_resource">
+          <title>Challenge: Eight apple illustrations</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378276)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378276)_resource">
+          <title>Solution: Apple illustrations</title>
+        </item>
+      </item>
+      <item identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378277)" identifierref="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378277)_resource">
+        <title>4. Exploring Movement</title>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378278)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378278)_resource">
+          <title>Motion in pictures: The active composition</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378279)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378279)_resource">
+          <title>Dynamic diagonals</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378280)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378280)_resource">
+          <title>Illustrating storyboards</title>
+        </item>
+      </item>
+      <item identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378281)" identifierref="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378281)_resource">
+        <title>5. Directing the Eye</title>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378282)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378282)_resource">
+          <title>Tracking the viewer's gaze</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378283)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378283)_resource">
+          <title>Contrast and edges</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378284)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378284)_resource">
+          <title>What is your focal point?</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378285)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378285)_resource">
+          <title>Understanding point of view</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378286)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378286)_resource">
+          <title>Creating depth with perspective</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378287)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378287)_resource">
+          <title>Avoiding common pitfalls</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378288)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378288)_resource">
+          <title>Challenge: Point of view</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378289)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378289)_resource">
+          <title>Solution: Point of view</title>
+        </item>
+      </item>
+      <item identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378290)" identifierref="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378290)_resource">
+        <title>6. Finalizing the Format</title>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378291)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378291)_resource">
+          <title>Does size matter?</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378292)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378292)_resource">
+          <title>Style and substance</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378293)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378293)_resource">
+          <title>The six rules of composition</title>
+        </item>
+      </item>
+      <item identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378294)" identifierref="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378294)_resource">
+        <title>7. From Concept to Finished Art</title>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378295)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378295)_resource">
+          <title>Shaping the composition</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378296)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378296)_resource">
+          <title>Picking the appropriate colors</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378297)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378297)_resource">
+          <title>Establishing value and contrast</title>
+        </item>
+        <item identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378298)" identifierref="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378298)_resource">
+          <title>Finalizing the color and composition</title>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378250)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378250)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378251)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378251)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378252)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378252)"></resource>
+    <resource identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378253)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378253)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378254)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378254)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378255)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378255)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378256)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378256)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378257)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378257)"></resource>
+    <resource identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378258)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378258)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378259)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378259)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378260)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378260)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378261)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378261)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378262)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378262)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378263)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378263)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378264)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378264)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378265)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378265)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378266)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378266)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378267)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378267)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378268)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378268)"></resource>
+    <resource identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378269)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378269)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378270)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378270)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378271)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378271)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378272)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378272)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378273)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378273)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378274)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378274)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378275)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378275)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378276)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378276)"></resource>
+    <resource identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378277)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378277)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378278)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378278)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378279)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378279)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378280)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378280)"></resource>
+    <resource identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378281)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378281)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378282)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378282)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378283)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378283)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378284)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378284)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378285)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378285)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378286)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378286)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378287)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378287)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378288)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378288)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378289)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378289)"></resource>
+    <resource identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378290)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378290)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378291)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378291)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378292)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378292)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378293)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378293)"></resource>
+    <resource identifier="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378294)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378294)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378295)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378295)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378296)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378296)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378297)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378297)"></resource>
+    <resource identifier="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378298)_resource" type="webcontent" adlcp:scormtype="asset" href="urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378298)"></resource>
+  </resources>
+</manifest>

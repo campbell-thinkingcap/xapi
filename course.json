@@ -1,0 +1,990 @@
+{
+  "urn": "urn:li:lyndaCourse:174922",
+  "details": {
+    "images": { "primary": "https://cdn.lynda.com/course/174922/174922-635617605425496964-16x9.jpg" },
+    "descriptionIncludingHtml": {
+      "locale": {
+        "country": "US",
+        "language": "en"
+      },
+      "value": "Understanding how to arrange the elements of a composition is critical to a successful final piece. Like the skeleton of a creature, composition is the foundation on which everything else rests.<br><br>\r\n\r\nThis course will help to clarify best practices for developing any artistic or illustrated composition. Shaping the elements; marrying concept to composition; engaging the editing eye; achieving balance, unity, directional movement, and perspective; and exploring point of view and focal points are all topics covered in these lessons. Author (and professional artist) Mary Jane Begin also explores the major and minor pitfalls of a weak composition and explains the six compositional rules that lead to the best end results! See the steps in action in the final chapter, where Mary Jane designs a concept for lynda.com.<br><br>\r\n\r\nThen share what you've learned with the lynda.com community. Take the three challenges Mary Jane issues in the course and post your results to Facebook and Twitter, using the hashtag #learnatlynda. We can't wait to see your illustrations!"
+    },
+    "lastUpdatedAt": 1593044602045,
+    "publishedAt": 1426204800000,
+    "level": "BEGINNER",
+    "description": {
+      "locale": {
+        "country": "US",
+        "language": "en"
+      },
+      "value": "Understanding how to arrange the elements of a composition is critical to a successful final piece. Like the skeleton of a creature, composition is the foundation on which everything else rests. This course will help to clarify best practices for developing any artistic or illustrated composition. Shaping the elements; marrying concept to composition; engaging the editing eye; achieving balance, unity, directional movement, and perspective; and exploring point of view and focal points are all topics covered in these lessons. Author (and professional artist) Mary Jane Begin also explores the major and minor pitfalls of a weak composition and explains the six compositional rules that lead to the best end results! See the steps in action in the final chapter, where Mary Jane designs a concept for lynda.com. Then share what you've learned with the lynda.com community. Take the three challenges Mary Jane issues in the course and post your results to Facebook and Twitter, using the hashtag #learnatlynda. We can't wait to see your illustrations!"
+    },
+    "shortDescription": {
+      "locale": {
+        "country": "US",
+        "language": "en"
+      },
+      "value": "Mary Jane Begin clarifies the best practices for developing any artistic or illustrated composition, covering compositional balance, movement, direction, unity, and format choices."
+    },
+    "availability": "AVAILABLE",
+    "availableLocales": [
+      {
+        "country": "US",
+        "language": "en"
+      }
+    ],
+    "relationships": [],
+    "classifications": [
+      {
+        "assigner": {
+          "urn": "urn:li:organization:1337",
+          "name": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "LinkedIn"
+          }
+        },
+        "path": [],
+        "associatedClassification": {
+          "owner": {
+            "urn": "urn:li:organization:1337",
+            "name": {
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "value": "LinkedIn"
+            }
+          },
+          "name": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "Art Composition"
+          },
+          "urn": "urn:li:skill:55239",
+          "type": "SKILL"
+        }
+      },
+      {
+        "assigner": {
+          "urn": "urn:li:organization:1337",
+          "name": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "LinkedIn"
+          }
+        },
+        "path": [
+          {
+            "owner": {
+              "urn": "urn:li:organization:1337",
+              "name": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "LinkedIn"
+              }
+            },
+            "name": {
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "value": "Animation and Illustration"
+            },
+            "urn": "urn:li:lyndaCategory:7175",
+            "type": "SUBJECT"
+          },
+          {
+            "owner": {
+              "urn": "urn:li:organization:1337",
+              "name": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "LinkedIn"
+              }
+            },
+            "name": {
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "value": "Creative"
+            },
+            "urn": "urn:li:lyndaCategory:7163",
+            "type": "LIBRARY"
+          }
+        ],
+        "associatedClassification": {
+          "owner": {
+            "urn": "urn:li:organization:1337",
+            "name": {
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "value": "LinkedIn"
+            }
+          },
+          "name": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "Art Composition"
+          },
+          "urn": "urn:li:lyndaCategory:7213",
+          "type": "TOPIC"
+        }
+      },
+      {
+        "assigner": {
+          "urn": "urn:li:organization:1337",
+          "name": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "LinkedIn"
+          }
+        },
+        "path": [
+          {
+            "owner": {
+              "urn": "urn:li:organization:1337",
+              "name": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "LinkedIn"
+              }
+            },
+            "name": {
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "value": "Creative"
+            },
+            "urn": "urn:li:lyndaCategory:7163",
+            "type": "LIBRARY"
+          }
+        ],
+        "associatedClassification": {
+          "owner": {
+            "urn": "urn:li:organization:1337",
+            "name": {
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "value": "LinkedIn"
+            }
+          },
+          "name": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "Animation and Illustration"
+          },
+          "urn": "urn:li:lyndaCategory:7175",
+          "type": "SUBJECT"
+        }
+      },
+      {
+        "assigner": {
+          "urn": "urn:li:organization:1337",
+          "name": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "LinkedIn"
+          }
+        },
+        "path": [],
+        "associatedClassification": {
+          "owner": {
+            "urn": "urn:li:organization:1337",
+            "name": {
+              "locale": {
+                "country": "US",
+                "language": "en"
+              },
+              "value": "LinkedIn"
+            }
+          },
+          "name": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "Creative"
+          },
+          "urn": "urn:li:lyndaCategory:7163",
+          "type": "LIBRARY"
+        }
+      }
+    ],
+    "urls": {
+      "ssoLaunch": "https://www.linkedin.com/checkpoint/enterprise/login/75078898?pathWildcard=75078898&application=learning&redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Fthe-elements-of-composition-for-illustrators%3Fu%3D75078898",
+      "webLaunch": "https://www.linkedin.com/learning/the-elements-of-composition-for-illustrators",
+      "aiccLaunch": "https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A174922&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A75078898%2C62993985%29"
+    },
+    "shortDescriptionIncludingHtml": {
+      "locale": {
+        "country": "US",
+        "language": "en"
+      },
+      "value": "Mary Jane Begin clarifies the best practices for developing any artistic or illustrated composition, covering compositional balance, movement, direction, unity, and format choices."
+    },
+    "contributors": [
+      {
+        "name": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "Mary Jane Begin"
+        },
+        "urn": "urn:li:lyndaAuthor:1583769",
+        "contributionType": "AUTHOR",
+        "authorDetails": {
+          "lastName": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "Jane Begin"
+          },
+          "firstName": {
+            "locale": {
+              "country": "US",
+              "language": "en"
+            },
+            "value": "Mary"
+          }
+        }
+      }
+    ],
+    "timeToComplete": {
+      "duration": 7351,
+      "unit": "SECOND"
+    }
+  },
+  "title": {
+    "locale": {
+      "country": "US",
+      "language": "en"
+    },
+    "value": "The Elements of Composition for Illustrators"
+  },
+  "type": "COURSE",
+  "contents": [
+    {
+      "asset": {
+        "urn": "urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378250)",
+        "title": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "Introduction"
+        },
+        "type": "CHAPTER",
+        "contents": [
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378251)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Welcome"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378252)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Getting the most out of this course"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "asset": {
+        "urn": "urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378253)",
+        "title": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "1. Basics of Composition"
+        },
+        "type": "CHAPTER",
+        "contents": [
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378254)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Understanding concept and composition"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378255)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Editing and revising your work"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378256)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Framing your field of view"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378257)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "A look back to influential illustrators"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "asset": {
+        "urn": "urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378258)",
+        "title": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "2. Shaping the Composition"
+        },
+        "type": "CHAPTER",
+        "contents": [
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378259)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Creating visual balance in an image"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378260)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Seeing in shape"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378261)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Designing the negative space"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378262)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Directing with lines"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378263)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Using borders, bleeds, and boxes"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378264)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Understanding color, texture, and proportion"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378265)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Patterns, clusters, and rhythm"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378266)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Composing with text"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378267)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Challenge: Incorporating text into your illustrations"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378268)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Solution: Text illustration"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "asset": {
+        "urn": "urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378269)",
+        "title": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "3. Creating Compositional Unity"
+        },
+        "type": "CHAPTER",
+        "contents": [
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378270)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Bringing it all together"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378271)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Using a limited palette in composition"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378272)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Consistency of style"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378273)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Unifying light"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378274)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Combining message and medium"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378275)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Challenge: Eight apple illustrations"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378276)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Solution: Apple illustrations"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "asset": {
+        "urn": "urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378277)",
+        "title": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "4. Exploring Movement"
+        },
+        "type": "CHAPTER",
+        "contents": [
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378278)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Motion in pictures: The active composition"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378279)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Dynamic diagonals"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378280)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Illustrating storyboards"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "asset": {
+        "urn": "urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378281)",
+        "title": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "5. Directing the Eye"
+        },
+        "type": "CHAPTER",
+        "contents": [
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378282)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Tracking the viewer's gaze"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378283)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Contrast and edges"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378284)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "What is your focal point?"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378285)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Understanding point of view"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378286)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Creating depth with perspective"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378287)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Avoiding common pitfalls"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378288)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Challenge: Point of view"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378289)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Solution: Point of view"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "asset": {
+        "urn": "urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378290)",
+        "title": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "6. Finalizing the Format"
+        },
+        "type": "CHAPTER",
+        "contents": [
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378291)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Does size matter?"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378292)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Style and substance"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378293)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "The six rules of composition"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "asset": {
+        "urn": "urn:li:lyndaChapter:(urn:li:lyndaCourse:174922,378294)",
+        "title": {
+          "locale": {
+            "country": "US",
+            "language": "en"
+          },
+          "value": "7. From Concept to Finished Art"
+        },
+        "type": "CHAPTER",
+        "contents": [
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378295)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Shaping the composition"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378296)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Picking the appropriate colors"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378297)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Establishing value and contrast"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          },
+          {
+            "asset": {
+              "urn": "urn:li:lyndaVideo:(urn:li:lyndaCourse:174922,378298)",
+              "title": {
+                "locale": {
+                  "country": "US",
+                  "language": "en"
+                },
+                "value": "Finalizing the color and composition"
+              },
+              "type": "VIDEO",
+              "contents": []
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
